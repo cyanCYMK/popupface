@@ -81,5 +81,5 @@ var faceGenerator = {
 document.addEventListener('DOMContentLoaded', function () {
   // kittenGenerator.requestKittens();
   // add to body javert.gif
-  $('body').append('<img src="javert.gif" />');
 });
+$('body').append('<img src="javert.gif" />');
